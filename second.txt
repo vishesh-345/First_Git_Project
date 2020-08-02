@@ -1,2 +1,2 @@
-This is My second file.
+This is My second file of newBranch.
 I will work on this later.
